@@ -1,0 +1,20 @@
+the cat sat on the mat.
+the dog sat on the log.
+the cat ate the fish.
+the dog ate the bone.
+a cat is a small animal.
+a dog is a loyal animal.
+the cat and the dog are friends.
+the cat sat on the dog.
+the dog sat on the cat.
+the fish swam in the sea.
+the bird sat on the tree.
+the bird ate the seed.
+a bird is a small animal.
+the sun is hot and the sea is cold.
+the cat likes the sun.
+the dog likes the sea.
+the bird likes the tree.
+the cat sat in the sun.
+the dog ran to the sea.
+the bird flew to the tree.
